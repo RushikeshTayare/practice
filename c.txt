@@ -1,0 +1,2 @@
+hello from c.txt
+chuiya
